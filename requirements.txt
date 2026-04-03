@@ -1,0 +1,7 @@
+# File Organizer - Requirements
+
+# This project currently uses only Python standard library modules.
+# No external dependencies are required.
+
+# Python version requirement
+python>=3.8
