@@ -1,3 +1,5 @@
+DEFAULT_FOLDER = "Others"
+
 FILE_TYPES = {
     "Docs": [".txt", ".doc", ".docx", ".pdf"],
     "Spreadsheets": [".xls", ".xlsx", ".csv"],
